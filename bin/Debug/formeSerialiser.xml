@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<ArrayOfForme xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Forme xsi:type="unPolygone">
+    <intCouleur>-65536</intCouleur>
+    <Origine>
+      <X>326</X>
+      <Y>171</Y>
+    </Origine>
+    <Taille>
+      <Width>87</Width>
+      <Height>65</Height>
+    </Taille>
+    <Style>false</Style>
+    <Cotes>6</Cotes>
+  </Forme>
+  <Forme xsi:type="unPolygone">
+    <intCouleur>-16711681</intCouleur>
+    <Origine>
+      <X>294</X>
+      <Y>192</Y>
+    </Origine>
+    <Taille>
+      <Width>36</Width>
+      <Height>50</Height>
+    </Taille>
+    <Style>true</Style>
+    <Cotes>6</Cotes>
+  </Forme>
+  <Forme xsi:type="unPolygone">
+    <intCouleur>-16711681</intCouleur>
+    <Origine>
+      <X>196</X>
+      <Y>105</Y>
+    </Origine>
+    <Taille>
+      <Width>34</Width>
+      <Height>62</Height>
+    </Taille>
+    <Style>true</Style>
+    <Cotes>6</Cotes>
+  </Forme>
+  <Forme xsi:type="unRectangle">
+    <intCouleur>-16711681</intCouleur>
+    <Origine>
+      <X>77</X>
+      <Y>133</Y>
+    </Origine>
+    <Taille>
+      <Width>70</Width>
+      <Height>93</Height>
+    </Taille>
+    <Style>true</Style>
+  </Forme>
+</ArrayOfForme>
